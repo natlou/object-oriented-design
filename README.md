@@ -1,4 +1,4 @@
-# object-oriented-design
+# Object Oriented Design
 
 This repository is focused on analyzing the design of a few applications as well as some popular ones. 
 
