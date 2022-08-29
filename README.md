@@ -6,9 +6,9 @@ This will help for the future of our SWE journey.
 
 The object-oriented design has always been a critical part of the software engineering interview process. Most of the engineers struggle with the object-oriented design interviews (OODI) mainly because of the open-ended nature of the design problems that don’t have a standard answer.
 
-This module is a complete guide to master the OODI. It not only has a set of carefully handpicked case studies, which have been repeatedly asked at the top tech companies but also provides a thorough experience to handle different object-oriented design scenarios.
+This is a complete guide to master the OODI. It not only has a set of carefully handpicked case studies, which have been repeatedly asked at the top tech companies but also provides a thorough experience to handle different object-oriented design scenarios.
 
-In this module, you’ll be working on the following design problems:
+In this repository, we be working on the following design problems:
 
   Design a Library Management System
 
@@ -44,6 +44,4 @@ In this module, you’ll be working on the following design problems:
 
 The content is structured such that we provide you with a problem specification followed by a coding playground for you to attempt a solution. This is followed by a recommended solution.
 
-Let’s begin!
 
-Next
